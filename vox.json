@@ -53,13 +53,7 @@
         "filters": "./ext/douban.json"
       }
     },
-      {
-      "key": "po",
-      "name": "tmdb",
-      "type": 3,
-      "api": "csp_tes",
-      "homePage": "https://14932.kstore.space/tmdb.html"
-    },
+      
    {
       "key" : "csp_PanShare115",
       "name" : "115┃网盘",
@@ -214,36 +208,8 @@
         "proxy": "noproxy"
       }
     },
-    {
-      "key": "欧歌网盘",
-      "name": "🤪欧歌┃网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "sites": "https://woog.nxog.eu.org",
-        "filters": "./ext/wogg2.json",
-        "proxy": "noproxy"
-      }
-    },
-    {
-      "key": "蜡笔网盘",
-      "name": "🤩蜡笔┃网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "sites": "http://feimo.fun",
-        "filters": "./ext/wogg2.json",
-        "proxy": "noproxy"
-      }
-    },
+   
+    
     {
       "key": "闪电网盘",
       "name": "🤑闪电┃网盘",
@@ -259,21 +225,7 @@
         "proxy": "noproxy"
       }
     },
-    {
-      "key": "二小网盘",
-      "name": "🤬二小┃网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "sites": "https://www.erxiaozhan.top",
-        "filters": "./ext/wogg2.json",
-        "proxy": "noproxy"
-      }
-    },
+   
     {
       "key": "木偶网盘",
       "name": "🙄木偶┃网盘",
@@ -289,21 +241,7 @@
         "proxy": "noproxy"
       }
     },
-    {
-      "key": "至臻网盘",
-      "name": "🤫至臻┃网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "sites": "https://www.miqk.cc",
-        "filters": "./ext/wogg2.json",
-        "proxy": "noproxy"
-      }
-    },
+   
     {"key":"csp_Zmi","name":"🐌蜗牛┃[网盘]","type":3,"api":"csp_Zmi","searchable":1,"changeable":1,"timeout":60,"ext":{"cookie":"","filters":"","sites":"https://www.wn4k.com"}},
     {"key":"csp_JuTouShe","name":"😳剧透┃[网盘]","type":3,"timeout":60,"api":"csp_JuTouShe","searchable":1,"changeable":0},
     {
