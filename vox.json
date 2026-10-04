@@ -108,7 +108,8 @@
         "channel": "kfcfoodcourt,leoziyuan,movielover8888_film3,seedhub_pro,Quark_Movies,QuarkFree,xx123pan,zyzhpd123,yingshifenxiang123,yp123pan,yppan,wp123zy,cloudtianyi,yunpan189,tyysypzypd,txtyzy,jzmm_123pan,kuakeclound,tyypzhpd,bsbdbfjfjff,bdwpzhpd,gotopan,ydypzyfx,yunpan139,XiangxiuNBB,peccxinpd,SharePanFilms,vip115hot,q66share,yggpan,WFYSFX02,mcph860,mcph608,taoxgzy,yunpanx,oneonefivewpfx,ucwpzy,ucquark,aliyunys,yunpanuc,ucshare,ucwangpan,guoman4k,panjclub,baicaozy,wpzybns02,Aliyun_4K_Movies,yunpanxunlei,tianyifc,bdyunpan,baicaoZY,MCPH01,MCPH02,MCPH03,MCPH04,MCPH086,Q66Share,shareAliyun,Channel_Shares_115,yoyokuakeduanju,TG654TG,WFYSFX01,QukanMovie,yeqingjie_GJG666,Baidu_netdisk,D_wusun,FLMdongtianfudi,newproductsourcing,yunpanNB,jxwpzy,kuakedongman,xiangnikanj,solidsexydoll,zdqxm,kduanju,cilidianying,CBduanju,Oscar_4Kmovies,Netdisk_Movies,yunpanquark,ciliziyuanku,dianying4k,q_dianshiju,godupan,gokuapan,gimy115,WFYSFX03,peccxin,Movie888035,gimy100,gimy115iso,XunLeiPinDao,a123fxme,WPpindao,kuyupan,djya5,pan_guangya"
       }
     },
-    
+    {"key":"webhome","name":"Ⓜ️网页┃首页","type":3,
+      "api":"csp_WebHome","ext":"./vox_web/ext.json","changeable":0},
     {
       "key": "csp_SeedHub",
       "name": "🎳Seed┃Hub",
@@ -226,7 +227,9 @@
       "api": "./ext/夸克影院.js"
     },
   
-   
+   {"key":"csp_JuTouShe","name":"😳剧透┃网盘",
+     "type":3,"timeout":60,"api":"csp_JuTouShe",
+     "searchable":1,"changeable":0},
     {
       "key": "灯泡网盘",
       "name": "💡灯泡┃网盘",
@@ -237,6 +240,8 @@
         "tabsSet": "磁力&网盘"
       }
     },
+    {"key":"虎斑网盘","name":"🤔虎斑┃网盘","type":3,"api":"csp_Wobg","searchable":1,"filterable":1,"changeable":1,"timeout":60,"ext":{"sites":"http://38.76.197.172:16969","filters":"./json/wogg2.json","proxy":"noproxy"}},
+    {"key":"快映网盘","name":"😳快映┃网盘","type":3,"api":"csp_Wobg","searchable":1,"filterable":1,"changeable":1,"timeout":60,"ext":{"sites":"http://38.76.197.172:12521","filters":"./json/wogg2.json","proxy":"noproxy"}}
     {
       "key": "电影港",
       "name": "⛴️港湾┃影院",
@@ -244,7 +249,7 @@
        "api" : "./js/drpy2.min.js",
       "ext" : "./js/电影港.js"
     },
-    {"key":"csp_HongGuo","name":"🍎果子┃[短剧]","type":3,"api":"csp_HongGuo","searchable":1,"changeable":0},
+    {"key":"csp_HongGuo","name":"🍎果子┃短剧","type":3,"api":"csp_HongGuo","searchable":1,"changeable":0},
    {
       "key" : "csp_Bili",
       "name" : "🅱️哔哩┃合集",
