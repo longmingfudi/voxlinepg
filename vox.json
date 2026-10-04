@@ -108,68 +108,7 @@
         "channel": "kfcfoodcourt,leoziyuan,movielover8888_film3,seedhub_pro,Quark_Movies,QuarkFree,xx123pan,zyzhpd123,yingshifenxiang123,yp123pan,yppan,wp123zy,cloudtianyi,yunpan189,tyysypzypd,txtyzy,jzmm_123pan,kuakeclound,tyypzhpd,bsbdbfjfjff,bdwpzhpd,gotopan,ydypzyfx,yunpan139,XiangxiuNBB,peccxinpd,SharePanFilms,vip115hot,q66share,yggpan,WFYSFX02,mcph860,mcph608,taoxgzy,yunpanx,oneonefivewpfx,ucwpzy,ucquark,aliyunys,yunpanuc,ucshare,ucwangpan,guoman4k,panjclub,baicaozy,wpzybns02,Aliyun_4K_Movies,yunpanxunlei,tianyifc,bdyunpan,baicaoZY,MCPH01,MCPH02,MCPH03,MCPH04,MCPH086,Q66Share,shareAliyun,Channel_Shares_115,yoyokuakeduanju,TG654TG,WFYSFX01,QukanMovie,yeqingjie_GJG666,Baidu_netdisk,D_wusun,FLMdongtianfudi,newproductsourcing,yunpanNB,jxwpzy,kuakedongman,xiangnikanj,solidsexydoll,zdqxm,kduanju,cilidianying,CBduanju,Oscar_4Kmovies,Netdisk_Movies,yunpanquark,ciliziyuanku,dianying4k,q_dianshiju,godupan,gokuapan,gimy115,WFYSFX03,peccxin,Movie888035,gimy100,gimy115iso,XunLeiPinDao,a123fxme,WPpindao,kuyupan,djya5,pan_guangya"
       }
     },
-    {"key":"123社区","name":"🥉社区┃网盘","type":3,"timeout":60,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,
-      "api":"csp_Pan123Fx","ext":{"cookie":"","filters":"./json/pan123fx.json","comment":""}},
-{"key":"csp_Gyzzs","name":"🦆鸭社┃网盘","type":3,"searchable":1,"playerType":2,
-  "quickSearch":1,"filterable":1,"timeout":60,"api":"csp_Qsxy",
-  "ext":{"cookie":"PHPSESSID=c0b30i2pdbi4vq2hrj0o4m6lco; Hm_lvt_e288361bdc3bae3de83404c11ca4163c=1782018012; HMACCOUNT=FF4C234DAFAD53AD; showed_system_notice=showed; fps_accelerat=120; _lscache_vary=6b5a6e2f1f133446dd03fb7eccb2549c; wordpress_logged_in_b6997ac7fe182508e49782dcc938f14c=a99865%7C1783227638%7CTX1OBypFHXfK9yxwa458DS3bqUOhY7rt8ENq8nbZH4e%7C7ec58e6637aeb5e4d16f74ec4088296195323643b06219d0f51ebcbe76e3f4fe; wfwaf-authcookie-6b5523459cf4b4ee764f5b3a64fd7daa=1950%7Csubscriber%7Cread%7C4759590220c2e7c45332c27047629b2bdb9ef8757676ce8d09b38dce693adbdd; Hm_lpvt_e288361bdc3bae3de83404c11ca4163c=1782018041","comment":""}},
-    {
-      "key": "csp_Panta91",
-      "name": "🐹盘Ta┃YD",
-      "type": 3,
-      "api": "csp_Panta91",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1,
-      "timeout": 60,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sites": "https://www.91panta.cn",
-        "proxy": "noproxy",
-        "classes": "./ext/panta.json"
-      }
-    },
-    {
-      "key": "csp_GuanYing",
-      "name": "😂观影┃4K",
-      "type": 3,
-      "api": "csp_GuanYing",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "cookie": "",
-        "filters": "./ext/guanying.json",
-        "sites": "https://www.xn--wcv59z.com/",
-        "proxy": "noproxy"
-      }
-    },
-  
-    {
-      "key" : "csp_QiWei",
-      "name" : "🏇七味┃4K",
-      "type" : 3,
-      "timeout" : 60,
-      "api" : "csp_QiWei",
-      "searchable" : 1,
-      "changeable" : 0
-    },
-    {
-      "key": "csp_PingLian",
-      "name": "😃盘链┃4K",
-      "type": 3,
-      "api": "csp_PingLian",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "ext": {
-        "cookie": "",
-        "filters": "./ext/pinglian.json",
-        "sites": "https://pinglian.lol"
-      }
-    },
+    
     {
       "key": "csp_SeedHub",
       "name": "🎳Seed┃Hub",
@@ -203,13 +142,12 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "sites": "https://wogg.xxooo.cf",
+        "sites": "https://www.wogg.net",
         "filters": "./ext/wogg.json",
         "proxy": "noproxy"
       }
     },
    
-    
     {
       "key": "闪电网盘",
       "name": "🤑闪电┃网盘",
@@ -236,7 +174,7 @@
       "changeable": 1,
       "timeout": 60,
       "ext": {
-        "sites": "https://www.muou.site",
+        "sites": "https://666.666291.xyz",
         "filters": "./ext/wogg2.json",
         "proxy": "noproxy"
       }
